@@ -751,14 +751,15 @@
             "", // 允许本地 file:// 协议运行
             "localhost", 
             "127.0.0.1", 
-            "winmjlm.pages.dev"
+            "winmjlm.pages.dev",
+            
         ];
         
         const currentDomain = window.location.hostname;
         const isCanvasPreview = currentDomain.includes('usercontent.goog') || currentDomain.includes('google');
 
         if (!allowedDomains.includes(currentDomain) && !isCanvasPreview) {
-            alert("🚫 域名未授权！\n当前域名: " + currentDomain + "\n请在 allowedDomains 列表中添加此域名。");
+            alert("🚫 域名未授权！\n当前域名: " + currentDomain);
             document.body.innerHTML = `<div style="text-align:center; padding:50px; background:#fff; color:#333; height:100vh;">
                 <h2 style="color:red;">🚫 Unauthorized Domain</h2>
                 <p>This application is not licensed to run on <b>${currentDomain}</b>.</p>
