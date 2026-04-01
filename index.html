@@ -102,7 +102,18 @@
             display: none;
         }
 
-        body { margin: 0; padding: 0; background-color: var(--bg); color: var(--text); padding-bottom: 20px; display: flex; flex-direction: column; min-height: 100vh; overflow-x: hidden; overscroll-behavior-y: none;}
+        body { margin: 0; padding: 0; background-color: var(--bg); color: var(--text); padding-bottom: 20px; display: flex; flex-direction: column; min-height: 100vh; overflow-x: hidden; overscroll-behavior-y: none;
+            /* 🚫 全局禁用长按弹出菜单和文字选择 (防误触) */
+            -webkit-touch-callout: none; /* iOS Safari */
+            -webkit-user-select: none;   /* Safari */
+            user-select: none;           /* 标准语法 */
+        }
+        
+        /* ✅ 允许在输入框、下拉菜单中正常长按、选择和复制粘贴 */
+        input, select, textarea {
+            -webkit-user-select: auto;
+            user-select: auto;
+        }
 
         /* 🚪 入场大门动画 (The Grand Gate) */
         #entry-gate { position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 100000; background: linear-gradient(135deg, #0f172a, #020617); display: flex; flex-direction: column; justify-content: center; align-items: center; transition: all 0.8s cubic-bezier(0.55, 0.085, 0.68, 0.53); perspective: 1000px; }
