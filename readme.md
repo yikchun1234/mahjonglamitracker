@@ -3,7 +3,7 @@
   <p><i>The Ultimate MY Board Game Tracker. A dual-language, mobile-first Web App with casino-grade animations and advanced scoring logic.</i></p>
   
 <a href="https://winmjlm.pages.dev">
-  <img src="https://img.shields.io/badge/🔥_LIVE_APP-winmjlm.pages.dev-FF416C?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live View">
+  <img src="https://img.shields.io/badge/🔥_LIVE_APP-winmjlm.pages.dev-FF416C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live View">
 </a>
 
   <br>
