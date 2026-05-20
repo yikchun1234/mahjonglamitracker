@@ -5,8 +5,20 @@
   <a href="https://winmjlm.pages.dev"><strong>🔥 LIVE VIEW: winmjlm.pages.dev 🔥</strong></a><br><br>
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Vanilla JS">
+  <img src="https://img.shields.io/badge/Zero--Build-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Zero Build">
+  
+  <br>
+  
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA Ready">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/License-Non--Commercial-red?style=for-the-badge" alt="License">
+
+  <br><br>
+
+  <img src="https://img.shields.io/github/last-commit/yikchun1234/mahjonglamitracker?style=for-the-badge" alt="Last Commit">
+  <img src="https://img.shields.io/github/repo-size/yikchun1234/mahjonglamitracker?style=for-the-badge" alt="Repo Size">
 </div>
 
 ---
