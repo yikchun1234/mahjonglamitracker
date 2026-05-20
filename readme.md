@@ -6,17 +6,6 @@
   <img src="https://img.shields.io/badge/🔥_LIVE_APP-winmjlm.pages.dev-FF416C?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live View">
 </a>
 
-<a href="https://winmjlm.pages.dev">
-  <kbd>&nbsp;🔥 LIVE VIEW: winmjlm.pages.dev 🔥&nbsp;</kbd>
-</a>
-
-<h3>
-  <a href="https://winmjlm.pages.dev" style="text-decoration: none; color: #D4AF37;">
-    🎰&nbsp;&nbsp;<strong>PLAY NOW: winmjlm.pages.dev</strong>&nbsp;&nbsp;🎰
-  </a>
-</h3>
-
-
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Vanilla JS">
